@@ -1,0 +1,31 @@
+# Build artifacts
+build/
+dist/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local config
+settings.json
+*.log
+
+# Preview images
+*.png
+*.jpg
+*.jpeg
+*.mp4
+
+# Temporary
+temp/
+*.tmp

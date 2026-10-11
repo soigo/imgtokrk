@@ -1,0 +1,32 @@
+﻿VSVersionInfo(
+  ffi=FixedFileInfo(
+    filevers=(1, 0, 0, 0),
+    prodvers=(1, 0, 0, 0),
+    mask=0x3F,
+    flags=0x0,
+    OS=0x40004,
+    fileType=0x1,
+    subtype=0x0,
+    date=(0, 0)
+  ),
+  kids=[
+    StringFileInfo(
+      [
+        StringTable(
+          "040904B0",
+          [
+            StringStruct("CompanyName", "Karaoke Frames"),
+            StringStruct("FileDescription", "\u041a\u0430\u0440\u0430\u043e\u043a\u0435-\u043a\u0430\u0434\u0440\u044b \u0438\u0437 \u0441\u043a\u0440\u0438\u043d\u0448\u043e\u0442\u0430"),
+            StringStruct("FileVersion", "1.0.0.0"),
+            StringStruct("InternalName", "KaraokeFrames"),
+            StringStruct("LegalCopyright", "MIT"),
+            StringStruct("OriginalFilename", "KaraokeFrames.exe"),
+            StringStruct("ProductName", "Image to Karaoke"),
+            StringStruct("ProductVersion", "1.0.0.0"),
+          ],
+        )
+      ]
+    ),
+    VarFileInfo([VarStruct("Translation", [0x0409, 0x04B0])]),
+  ],
+)
